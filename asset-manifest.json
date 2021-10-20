@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/FashionHouse/static/css/main.5018cd10.chunk.css",
+    "main.js": "/FashionHouse/static/js/main.151e90c5.chunk.js",
+    "main.js.map": "/FashionHouse/static/js/main.151e90c5.chunk.js.map",
+    "runtime-main.js": "/FashionHouse/static/js/runtime-main.19a29fa5.js",
+    "runtime-main.js.map": "/FashionHouse/static/js/runtime-main.19a29fa5.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/FashionHouse/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.aa3f3c9a.chunk.js": "/FashionHouse/static/js/2.aa3f3c9a.chunk.js",
+    "static/js/2.aa3f3c9a.chunk.js.map": "/FashionHouse/static/js/2.aa3f3c9a.chunk.js.map",
+    "index.html": "/FashionHouse/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/FashionHouse/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.5018cd10.chunk.css.map": "/FashionHouse/static/css/main.5018cd10.chunk.css.map",
+    "static/js/2.aa3f3c9a.chunk.js.LICENSE.txt": "/FashionHouse/static/js/2.aa3f3c9a.chunk.js.LICENSE.txt",
+    "static/media/aboutimg.c948ed66.jpg": "/FashionHouse/static/media/aboutimg.c948ed66.jpg",
+    "static/media/clothes.4dce2848.jpg": "/FashionHouse/static/media/clothes.4dce2848.jpg",
+    "static/media/coat.b82cb478.jpg": "/FashionHouse/static/media/coat.b82cb478.jpg",
+    "static/media/coatpant3.24d67845.jpg": "/FashionHouse/static/media/coatpant3.24d67845.jpg",
+    "static/media/jacket.3508cbad.jpg": "/FashionHouse/static/media/jacket.3508cbad.jpg",
+    "static/media/kurta2.4eaa8ce6.jpg": "/FashionHouse/static/media/kurta2.4eaa8ce6.jpg",
+    "static/media/lower.27db3a59.jpg": "/FashionHouse/static/media/lower.27db3a59.jpg",
+    "static/media/pant.ac965386.jpg": "/FashionHouse/static/media/pant.ac965386.jpg",
+    "static/media/shirt.d98c1f5c.jpg": "/FashionHouse/static/media/shirt.d98c1f5c.jpg",
+    "static/media/shoes.7c047284.jpg": "/FashionHouse/static/media/shoes.7c047284.jpg",
+    "static/media/shoes2.8d06d61f.jpg": "/FashionHouse/static/media/shoes2.8d06d61f.jpg",
+    "static/media/shoes3.dc1dac4f.jpg": "/FashionHouse/static/media/shoes3.dc1dac4f.jpg",
+    "static/media/shoes4.f6c8ff7c.jpg": "/FashionHouse/static/media/shoes4.f6c8ff7c.jpg",
+    "static/media/shoes5.d9a9cbd8.jpg": "/FashionHouse/static/media/shoes5.d9a9cbd8.jpg",
+    "static/media/sideimg.c94a824d.jpg": "/FashionHouse/static/media/sideimg.c94a824d.jpg",
+    "static/media/slippers.e2a3092c.jpg": "/FashionHouse/static/media/slippers.e2a3092c.jpg",
+    "static/media/tshirt.00004c17.jpg": "/FashionHouse/static/media/tshirt.00004c17.jpg",
+    "static/media/tsuit.7c03a7c9.jpg": "/FashionHouse/static/media/tsuit.7c03a7c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a29fa5.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.aa3f3c9a.chunk.js",
+    "static/css/main.5018cd10.chunk.css",
+    "static/js/main.151e90c5.chunk.js"
+  ]
+}
